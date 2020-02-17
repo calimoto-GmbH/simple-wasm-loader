@@ -1,6 +1,6 @@
 {
   "name": "simple-wasm-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple wasm loader for webpack.",
   "main": "src/index.js",
   "scripts": {
@@ -22,6 +22,5 @@
   },
   "homepage": "https://github.com/calimoto-GmbH/simple-wasm-loader#readme",
   "dependencies": {
-    "loader-utils": "^1.2.3"
   }
 }
