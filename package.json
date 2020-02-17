@@ -1,0 +1,27 @@
+{
+  "name": "simple-wasm-loader",
+  "version": "1.0.0",
+  "description": "A simple wasm loader for webpack.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calimoto-GmbH/simple-wasm-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "wasm",
+    "webassembly"
+  ],
+  "author": "Vincent Semrau",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/calimoto-GmbH/simple-wasm-loader/issues"
+  },
+  "homepage": "https://github.com/calimoto-GmbH/simple-wasm-loader#readme",
+  "dependencies": {
+    "loader-utils": "^1.2.3"
+  }
+}
