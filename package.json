@@ -21,6 +21,10 @@
     "url": "https://github.com/calimoto-GmbH/simple-wasm-loader/issues"
   },
   "homepage": "https://github.com/calimoto-GmbH/simple-wasm-loader#readme",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "memory-fs": "^0.5.0",
+    "webpack": "^4.41.6"
   }
 }
