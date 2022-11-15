@@ -23,7 +23,7 @@
   "homepage": "https://github.com/calimoto-GmbH/simple-wasm-loader#readme",
   "dependencies": {},
   "devDependencies": {
-    "jest": "^25.1.0",
+    "jest": "^29.3.1",
     "memory-fs": "^0.5.0",
     "webpack": "^4.41.6"
   }
